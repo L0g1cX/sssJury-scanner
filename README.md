@@ -19,6 +19,7 @@
 该工具适合在资产测绘、攻击面梳理、渗透测试前置筛选、漏洞验证目标优先级排序等场景中使用。
 
 ---
+<img width="1970" height="1562" alt="48b918db467b2bc090a4f95a89749080" src="https://github.com/user-attachments/assets/375f3902-66fd-4a4c-8d1c-cb6abb27f107" />
 
 ## 二、核心功能
 
